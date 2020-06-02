@@ -1,0 +1,16 @@
+-rwxr--r-- 1 student student 20205 Jun  2 15:23 utils.go
+
+../ascii-art:
+total 48
+drwxr-xr-x  6 student student 4096 May 23 17:49 .
+drwxr-xr-x 11 student student 4096 May 31 18:17 ..
+drwxr-xr-x  3 student student 4096 May  9 21:57 ascii-art
+drwxr-xr-x  6 student student 4096 May 11 19:12 ascii-art-web
+-rw-r--r--  1 student student  447 May  9 21:57 Dockerfile.multistage
+-rw-r--r--  1 student student   15 May  9 21:57 .dockerignore
+-rwxr-xr-x  1 student student  167 May  9 21:57 docker_run.sh
+-rw-r--r--  1 student student   57 May  5 00:12 .env
+drwxr-xr-x  8 student student 4096 Jun  2 14:57 .git
+-rwxr-xr-x  1 student student  467 Apr 19 18:00 git.sh
+-rw-r--r--  1 student student  830 May 15 03:51 README.md
+drwxr-xr-x  2 student student 4096 May  7 19:58 .vscode
